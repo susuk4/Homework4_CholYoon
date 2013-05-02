@@ -19,3 +19,7 @@ expalaind in file
 
 Problem 3
 =================
+n = 15
+distibution is nearly 0.5
+as n increases distibution of prime number decrease
+I need to work on this, by visiting office hour
