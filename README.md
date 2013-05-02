@@ -12,5 +12,10 @@ and create set of prime number in set of values of equation
 Since it is inifinite set
 computer creates it forever.
 
-Problem 2
+Problem 3
+=================
+expalaind in file
+
+
+Problem 3
 =================
